@@ -21,9 +21,8 @@ This project aims to securely manage, streamline, and perform analysis on the st
 6. AWS Athena: Athena is an interactive query service for S3 in which there is no need to load data it stays in S3.
 
 ## Architecture Diagram
-<p>
-    <img src="./Architecture.jpeg">
-</p>
+<img src="Architecture.jpg">
+
 ## Analysis Dashboard
 <p>
     <img src="./Youtube_Analytics_dashboard_quicksight.pdf">
